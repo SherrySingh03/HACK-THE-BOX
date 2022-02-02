@@ -5,3 +5,7 @@ And I was making notes side-by-side, because apparently, note-making helps you g
 So, I thought I should make a repository and push these notes here, might help anyone in need.. 
 
 GG, Hope this helps.
+
+# Important: 
+1. I'm assuming that the attacker is running Kali Linux 2021.4. 
+2. I'm assuming that the first step: ping {target-ip} is already performed so as to check that the IP is up and running or not.
